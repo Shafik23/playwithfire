@@ -1,0 +1,17 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+NODE_ENV	config/prod.env.js	/^module.exports = {$/;"	p	class:use strict.exports
+exports.cssLoaders	build/utils.js	/^}$/;"	f
+generateLoaders	build/utils.js	/^  function generateLoaders (loader, loaderOptions) {$/;"	f
+loader	build/utils.js	/^  const cssLoader = {$/;"	p	class:const
+loader	build/utils.js	/^  const postcssLoader = {$/;"	p	class:const
+module.exports	build/check-versions.js	/^}$/;"	f
+options	build/utils.js	/^    loader: 'css-loader',$/;"	p	class:const
+options	build/utils.js	/^    loader: 'postcss-loader',$/;"	p	class:const
+parserOptions	.eslintrc.js	/^  root: true,$/;"	p	class:module.exports
+plugins	.postcssrc.js	/^module.exports = {$/;"	p	class:module.exports
+root	.eslintrc.js	/^module.exports = {$/;"	p	class:module.exports
