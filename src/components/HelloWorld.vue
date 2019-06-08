@@ -27,6 +27,7 @@ export default {
     methods: {
         onEnter() {
             this.$firestoreRefs.dump.add({value: this.userInput});
+            this.userInput = '';
         }
     }
 };
